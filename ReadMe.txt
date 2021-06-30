@@ -1,0 +1,3 @@
+This is a java project. The file name is Project.java Need to include the file path for the input file. The output will be the Propositions and then the output. 
+If SUCCESS, then the output will include the correct order of CNF form. If the solution is not possible, then it will display FAILED. Along with the key of the most
+ recent changes. A - prior to the number means that it must be negative.  
